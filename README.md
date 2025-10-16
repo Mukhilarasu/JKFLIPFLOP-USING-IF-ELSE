@@ -42,6 +42,7 @@ The maximum possible groupings of adjacent ones are already shown in the figure.
 6. Run the program.
 
 **PROGRAM**
+
 module exp4(j,k,clk,q,qbar);
 
 input j,k,clk;
